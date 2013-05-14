@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lethe3000.github.io/atom.xml" rel="self"/>
   <link href="http://lethe3000.github.io/"/>
-  <updated>2013-05-14T00:55:06+08:00</updated>
+  <updated>2013-05-14T00:58:56+08:00</updated>
   <id>http://lethe3000.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog with Octopress and Github Pages]]></title>
+    <link href="http://lethe3000.github.io/blog/2013/05/14/blog-with-octopress-and-github-pages/"/>
+    <updated>2013-05-14T00:57:00+08:00</updated>
+    <id>http://lethe3000.github.io/blog/2013/05/14/blog-with-octopress-and-github-pages</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
