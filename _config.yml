@@ -4,8 +4,8 @@
 
 url: http://lethe3000.github.io
 title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+subtitle: 闻君有白玉美人,妙手雕成,极尽妍态, 不胜心向往之。今夜子正,当踏月来取, 君素雅达,必不致令我徒劳往返也。
+author: Lethe3000
 simple_search: http://google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: lethe30003000@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
