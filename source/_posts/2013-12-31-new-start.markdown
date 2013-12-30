@@ -1,0 +1,8 @@
+---
+layout: post
+title: "new start"
+date: 2013-12-31 00:07
+comments: true
+categories: 
+---
+现在开始把一些本地记录的东西搬到github.io上
