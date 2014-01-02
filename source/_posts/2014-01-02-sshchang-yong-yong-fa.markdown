@@ -9,12 +9,12 @@ categories:
 ssh即**secure shell protocol**
 ------------------------------
 命令基本格式为:
-{% codeblock lang=sh %}
+{% codeblock %}
 ssh [-l login_name] [-p port] [user@]hostname
 {% endcodeblock %}
 
 其中指定用户的参数`-l`相当于`user@`
-{% codeblock lang=sh %}
+{% codeblock %}
 ssh -l root 192.168.0.11
 ssh root@192.168.0.11
 {% endcodeblock %}
@@ -33,7 +33,7 @@ ssh的连接方式
 
 重启sshd服务
 -----------
-{% codeblock lang=sh %}
+{% codeblock %}
 [root@www ~]# /etc/init.d/sshd restart
 [root@www ~]# netstat -tlnp | grep ssh
 Active Internet connections (only servers)
